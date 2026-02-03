@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[86439,["/_next/static/chunks/c39c3d66c2573f46.js"],"Sidebar"]
+3:I[19066,["/_next/static/chunks/c39c3d66c2573f46.js"],"DocumentViewer"]
+4:I[22687,["/_next/static/chunks/3ff8e48d524d786c.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"wdiMU_bjBmAx--HtGxXwH","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex h-screen bg-background","children":[["$","$L2",null,{"documents":[],"tasks":[]}],["$","main",null,{"className":"flex-1 overflow-hidden","children":["$","$L3",null,{"todayJournal":null}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/c39c3d66c2573f46.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null
