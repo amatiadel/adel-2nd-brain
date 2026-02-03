@@ -1,8 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: 'export',
-  distDir: 'dist',
+  // Let Vercel handle SSR
 };
 
 export default nextConfig;
